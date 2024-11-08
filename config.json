@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMwNDMwMjA1MTgxNTA2NzY3OA.G68u_9.Td6ES6rWFjkvTJipKazg1VQr0HnfqSwOuyWD6w",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://characterk450:U4YYpf4hajxMvKma@brand.vl1c1.mongodb.net/?retryWrites=true&w=majority&appName=Brand",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
